@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Editing this page!!
+- Editing this page!! in my editor
 - List
 
 1. Numbered
